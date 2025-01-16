@@ -14,10 +14,7 @@
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.4",
-        "ricadesign/laravel-contact": "^1.0",
-        "swiftmailer/swiftmailer": "^6.0",
-        "symfony/mailer": "^6.1"
-    },
+   },
     "require-dev": {
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
